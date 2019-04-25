@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="tb1">8cea1b60730d33001c233096fbf6a7db</application>
+        <filter/>
+        <name>tb1s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_april_25.tb1_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-25 06:52:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8649905d730533001c233096fbf6a745</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tb1s</sys_name>
+        <sys_package display_value="April_25" source="sn_april_25">4d78181d730533001c233096fbf6a70b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="April_25">4d78181d730533001c233096fbf6a70b</sys_scope>
+        <sys_update_name>sys_ui_module_8649905d730533001c233096fbf6a745</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-25 06:52:57</sys_updated_on>
+        <table>sn_april_25_tb1</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
